@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlmodel
+python-multipart
+pydantic
+pandas
+streamlit
+requests
