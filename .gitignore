@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+data/
+
 # Distribution / packaging
 .Python
 build/
@@ -172,3 +174,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/.idea/.gitignore
+/.idea/dataSources.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/PowerPrompt.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/data/images/
+/data/
